@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "2.1",
+	"FriendlyName": "CSW Auto Save And Load Plugin v2",
+	"Description": "Auto save and load system just by adding a component to any Actor",
+	"Category": "Cronofear Softworks",
+	"CreatedBy": "Cronofear Softworks",
+	"CreatedByURL": "http://cronofear.com",
+	"DocsURL": "https://cronofear.com",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/1908d4fc7b1a4c7faa285ed913155f2b",
+	"SupportURL": "",
+	"EngineVersion": "4.21.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "CSWAutoSaveAndLoadSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win32",
+				"Win64",
+				"Android"
+			]
+		}
+	]
+}
